@@ -5,10 +5,14 @@ This is a typical Document Classification Problem whose sample pic is attached h
 Steps follwed in Approach_1 were:
 1) TF_IDF 
 2) Logistic_Regression for training and prediction
+
+
 Steps follwed in Approach_2 were:
 1) TF_IDF 
 2) SVD(Singular Value Decomposition) i.e a dimentionality reduction technique 
 3) SVM linear for training and prediction
+
+
 Steps follwed in Approach_3 were:
 1) TF_IDF 
 2) SVD(Singular Value Decomposition) 
